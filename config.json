@@ -30,28 +30,28 @@
   },
   "antiInbox": false,
   "language": "en",
-  "nickNameBot": "𝐂𝐘𝐁𝐄𝐑 𝐆𝐎𝐀𝐓 𝐁𝐎𝐓 ᵁᴸᴸᴬˢᴴ",
+  "nickNameBot": "R U S H A N BOT",
   "prefix": "!",
   "usePrefix": {
     "enable": true,
     "adminUsePrefix": {
       "enable": true,
       "specificUids": [
-        "100082395531611",
-        "100015168369582"
+        "61590172631255",
+        "61590172631255"
       ]
     }
   },
   "adminOnly": {
     "enable": false,
     "ignoreCommand": [
-      "100082395531611",
-      "100015168369582"
+      "61590172631255",
+      "61590172631255"
     ]
   },
   "adminBot": [
-    "100082395531611",
-    "100015168369582"
+    "61590172631255",
+    "61590172631255"
   ],
   "whiteListMode": {
     "enable": false,
@@ -81,7 +81,7 @@
     "port": 8080,
     "passwordProtection": {
       "enable": true,
-      "password": "CYBER"
+      "password": "BDXP"
     }
   },
   "serverUptime": {
